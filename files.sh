@@ -1,4 +1,5 @@
 #!/bin/bash
+mkdir filers && cd filers
 echo -n "Please Enter the filename: "
 read filename
 today=`date +%m-%d-%y`
